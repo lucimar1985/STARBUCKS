@@ -6,7 +6,7 @@
  }
  
  body {
-     padding-top: 20px; /* espaçamento */
+     padding-top: 20px; /* espaço */
      padding-right: 100px;
      padding-left: 100px;
  }
@@ -25,7 +25,7 @@
  .caixa-imagem {
      width: 600px;
      display: flex;
-     justify-content: flex-end; /* alinha item todo pro lado */
+     justify-content: flex-end; /* alinha item para lado */
      margin-top: 250px;
  }
  
